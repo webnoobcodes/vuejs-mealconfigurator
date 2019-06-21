@@ -1,5 +1,7 @@
 # vuejs-mealconfigurator
 
+- [Demonstration on Youtube](https://youtu.be/2F8Z2O6SGpQ)
+
 ## Project setup
 ```
 npm install
@@ -25,5 +27,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+
+[MIT](LICENSE)
