@@ -39,47 +39,47 @@
             title: 'Cerial base',
             selectedOption: {},
             options: [
-              { title: 'Pure Oat Flakes', img: 'oat.png', price: 2.99 },
-              { title: 'Protein Flakes', img: 'oat.png', price: 3.49 },
-              { title: 'Crunchy Coffee', img: 'oat.png', price: 3.49 },
-              { title: 'Crunchy and Oat', img: 'oat.png', price: 3.99 }
+              { title: 'Pure Oat Flakes', img: '', price: 2.99 },
+              { title: 'Protein Flakes', img: '', price: 3.49 },
+              { title: 'Crunchy Coffee', img: '', price: 3.49 },
+              { title: 'Crunchy and Oat', img: '', price: 3.99 }
             ]
           },
           {
             title: 'Fruit',
             selectedOption: {},
             options: [
-              { title: 'Apple', img: 'apple.png', price: 0.99 },
-              { title: 'Fig', img: 'fig.png', price: 1.49 },
-              { title: 'Apricot', img: 'apricot.png', price: 1.49 },
-              { title: 'Plum', img: 'plum.png', price: 1.29 },
-              { title: 'Strawberry', img: 'strawberry.png', price: 1.99 },
-              { title: 'Raspberry', img: 'raspberry.png', price: 1.99 },
-              { title: 'Banana', img: 'banana.png', price: 0.99 },
-              { title: 'Blueberry', img: 'blueberries.png', price: 1.79 }
+              { title: 'Apple', img: '', price: 0.99 },
+              { title: 'Fig', img: '', price: 1.49 },
+              { title: 'Apricot', img: '', price: 1.49 },
+              { title: 'Plum', img: '', price: 1.29 },
+              { title: 'Strawberry', img: '', price: 1.99 },
+              { title: 'Raspberry', img: '', price: 1.99 },
+              { title: 'Banana', img: '', price: 0.99 },
+              { title: 'Blueberry', img: '', price: 1.79 }
             ]
           },
           {
             title: 'Nuts and Seeds',
             selectedOption: {},
             options: [
-              { title: 'Sunflower Seeds', img: 'sunflower.png', price: 0.49 },
-              { title: 'Pumpkin Seeds', img: 'pumpkin.png', price: 0.49 },
-              { title: 'Hazelnuts', img: 'hazelnut.png', price: 0.99 },
-              { title: 'Walnuts', img: 'walnut.png', price: 1.29 },
-              { title: 'Cashew Nuts', img: 'cashew.png', price: 0.99 },
-              { title: 'Coconut Flakes', img: 'coconut.png', price: 1.49 },
-              { title: 'Pecan Nuts', img: 'pecan.png', price: 0.99 }
+              { title: 'Sunflower Seeds', img: '', price: 0.49 },
+              { title: 'Pumpkin Seeds', img: '', price: 0.49 },
+              { title: 'Hazelnuts', img: '', price: 0.99 },
+              { title: 'Walnuts', img: '', price: 1.29 },
+              { title: 'Cashew Nuts', img: '', price: 0.99 },
+              { title: 'Coconut Flakes', img: '', price: 1.49 },
+              { title: 'Pecan Nuts', img: '', price: 0.99 }
             ]
           },
           {
             title: 'Chocolate',
             selectedOption: {},
             options: [
-              { title: 'Dark Chocolate', img: 'chocolate_dark.png', price: 1.49 },
-              { title: 'Chocolate Puffs', img: 'choco_puffs.png', price: 1.49 },
-              { title: 'Espresso Chocs', img: 'coffee-beans.png', price: 1.99 },
-              { title: 'White Chocolate', img: 'chocolate_white.png', price: 1.49 }
+              { title: 'Dark Chocolate', img: '', price: 1.49 },
+              { title: 'Chocolate Puffs', img: '', price: 1.49 },
+              { title: 'Espresso Chocs', img: '', price: 1.99 },
+              { title: 'White Chocolate', img: '', price: 1.49 }
             ]
           },
           {
